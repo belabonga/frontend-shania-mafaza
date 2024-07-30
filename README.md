@@ -32,7 +32,7 @@ This project is an e-commerce checkout system built using Vue 3, Vite, Pinia, an
     ```bash
     git clone https://github.com/belabonga/frontend-shania-mafaza.git
 
-    cd e-commerce
+    cd ecommerce
     ```
 
 2. **Install dependencies:**
